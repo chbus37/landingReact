@@ -1,12 +1,19 @@
-# React + Vite
+# Landing con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing de pagina utilizando React y Framer Motion para animacion de algunos elementos.
 
-Currently, two official plugins are available:
+## 🚀 Características principales
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Con animaciones con Framer Motion
+- ✅ Utilizando React y JS
+- ✅ Para estilos se utilizo Tailwind CSS y Bootstrap Icons
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologías utilizadas
+
+- HTML
+- CSS / TAILWIND CSS
+- REACT JS
+
+
+![Captura](https://github.com/user-attachments/assets/6a0c7fe3-677d-4ca7-ab33-5c8b1abfcc41)
